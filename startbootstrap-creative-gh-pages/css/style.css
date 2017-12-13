@@ -12,12 +12,25 @@ element {
 
 }
 #mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
-
     color: #fff;
-
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus {
     color: #8fb8ed !important;
     background-color: transparent;
+}
+
+.img-circle
+{
+  border-radius: 50%;
+  width: 35%;
+  height: 250px;
+}
+
+.bg-primary {
+    background-color: #527edd !important;
+}
+
+.text-primary {
+    color: #e3e4db !important;
 }
