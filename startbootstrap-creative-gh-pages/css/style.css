@@ -1,0 +1,23 @@
+.btn-primary {
+    background-color: #8fb8ed;
+}
+
+hr {
+    border-color: #8fb8ed;
+}
+
+
+
+element {
+
+}
+#mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
+
+    color: #fff;
+
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus {
+    color: #8fb8ed !important;
+    background-color: transparent;
+}
