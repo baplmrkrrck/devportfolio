@@ -34,3 +34,16 @@ element {
 .text-primary {
     color: #e3e4db !important;
 }
+
+a {
+    color: #8fb8ed;
+
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: blue;
+}
